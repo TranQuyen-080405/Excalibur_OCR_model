@@ -1,1 +1,0 @@
-# Excalibur_OCR_model
